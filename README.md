@@ -6,6 +6,16 @@ How to use に記述しているコマンド 1 つを実行することで
 クローン〜Rspec の実行までを行い、Rspec 結果はターミナルに出力されます。  
 また、クローンしたアプリのサーバー立ち上げまで行います。  
 
+## Tools needed to work
+
+- [Docker](https://docs.docker.com/engine/installation/)
+- makeコマンド
+
+### for Windows
+
+下記 URL から make を使えるようにする  
+http://gnuwin32.sourceforge.net/packages/make.htm  
+
 ## How to use
 
 ### Start up
@@ -43,11 +53,6 @@ bookers フォルダ内にクローンしたものが存在するので`cd booke
 ```shell
 make down
 ```
-
-### for Windows
-
-下記 URL から make を使えるようにする  
-http://gnuwin32.sourceforge.net/packages/make.htm  
 
 ## Docker Hub
 
