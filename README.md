@@ -46,7 +46,7 @@ make down
 
 ### for Windows
 
-下記 URL から make を使えるようにする
+下記 URL から make を使えるようにする  
 http://gnuwin32.sourceforge.net/packages/make.htm  
 
 ## Docker Hub
