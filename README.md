@@ -14,7 +14,7 @@ How to use に記述しているコマンド 1 つを実行することで
 Makefile があるフォルダまで移動し下記コマンドを実行する
 
 ```shell
-$ make run github=(githubのURLを入れる(https))
+$ make up github=(githubのURLを入れる(https))
 ```
 
 実行すると Rspec が走り、且つ 3000 番ポートでサーバーが立ち上がるのでブラウザで確認します。
