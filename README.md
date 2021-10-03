@@ -46,9 +46,9 @@ make down
 ### for Windows
 
 下記 URL から make を使えるようにする
-http://gnuwin32.sourceforge.net/packages/make.htm
+http://gnuwin32.sourceforge.net/packages/make.htm  
 
 ## Docker Hub
 
-https://hub.docker.com/r/raityupiyo/rspec
+https://hub.docker.com/r/raityupiyo/rspec  
 https://hub.docker.com/r/raityupiyo/rails
